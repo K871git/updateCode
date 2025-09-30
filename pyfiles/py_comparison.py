@@ -4,16 +4,16 @@
 # # Python program to show how a simple if keyword works  
   
 # # Initializing some variables  
-# v = 5  
-# t = 4  
-# print("The initial value of v is", v, "and that of t is ",t)  
+v = 5  
+t = 4  
+print("The initial value of v is", v, "and that of t is ",t)  
   
 # # Creating a selection control structure  
-# if v > t :  
-#     print(v, "is bigger than ", t)  
-#     v -= 2  
+if v > t :  
+    print(v, "is bigger than ", t)  
+    v -= 2  
   
-# print("The new value of v is", v, "and the t is ",t)  
+print("The new value of v is", v, "and the t is ",t)  
   
 # # Creating the second control structure  
 # if v < t :  

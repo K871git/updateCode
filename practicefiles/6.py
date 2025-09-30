@@ -18,7 +18,7 @@ print(num)
 # num.reverse()
 # print(num)
 # print(num[11])
-# print(len( num))
+# print(len( num))s
 
 # print(num[-5:-1])
 # print(num[:])
