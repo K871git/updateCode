@@ -1,0 +1,8 @@
+import tkinter
+window=tkinter.Tk()
+
+window.title("Hello There")
+label=tkinter.Label(window,text="GUI App").pack()
+
+
+window.mainloop()

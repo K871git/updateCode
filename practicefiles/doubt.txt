@@ -1,0 +1,7 @@
+#solving the issues while writing an python programs 
+command : pip install sketchpy --upgrade --force-reinstall
+
+#install packages 
+    installing numpy : python -m pip install --upgrade pip
+
+# practicing and doing changes 
