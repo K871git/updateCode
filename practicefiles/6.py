@@ -5,16 +5,16 @@ l1=[23,"hello",45.56,(2,3)]
 print(l1)
 
 #count total number of elements which has first and last digit same 
-list1=['AnA','LOL','456','919',"hi"]
-c=0
-for a in list1:
-    if len(a)>=2 and a[0]==a[-1]:
-        c+=1
-print(f"total strings ={c}")
+# list1=['AnA','LOL','456','919',"hi"]
+# c=0
+# for a in list1:
+#     if len(a)>=2 and a[0]==a[-1]:
+#         c+=1
+# print(f"total strings ={c}")
 
 num=[2,6,78,5,4,17,87,65,34,100,45,1000]
-# print(num)
-# num.sort()
+print(num)
+num.sort()
 
 # print(num)
 # num.reverse()
